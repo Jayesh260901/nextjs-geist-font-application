@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/application-status/page": "app/application-status/page.js",
+  "/dl-renewal/page": "app/dl-renewal/page.js",
+  "/driving-license/page": "app/driving-license/page.js",
+  "/learner-license/page": "app/learner-license/page.js",
+  "/page": "app/page.js",
+  "/payments/page": "app/payments/page.js",
+  "/update-mobile/page": "app/update-mobile/page.js",
+  "/upload-document/page": "app/upload-document/page.js"
+}
